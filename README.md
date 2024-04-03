@@ -1,2 +1,2 @@
 # TallerTecnologiasWeb
-Repositorio para Taller de Tecnologías Web CIISA
+Repositorio para Taller de Tecnologías Web CIISA.
